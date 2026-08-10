@@ -1,0 +1,15 @@
+:root {
+    --cor-fundo: #fff8f0;
+--cor-fundo: #8b5e3c;
+--cor-texto: #333;
+--cor-rodape: #654321;
+}
+body{
+    margin: 0;
+    font-family: 'segoe UI', sans-serif;
+    background-color: var(--cor-fundo);
+    color: var(--cor-fundo);
+}
+/* Estilizar o cabeçalho */ header {
+    background-color;
+}
